@@ -1,0 +1,3 @@
+person = ('Kenneth Domdom', 20, 'Caloocan','Software Engineer');
+
+print('Name :',person[0]);
